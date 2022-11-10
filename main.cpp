@@ -19,10 +19,10 @@ int main(){
   rettangolo=a*b;
   trapezio=((a+b)*c)/2;
 
-  cout<<quadrato;
-  cout<<rettangolo;
-  cout<<triangolo;
-  cout<<trapezio;
+  cout<<quadrato<<endl;
+  cout<<rettangolo<<endl;
+  cout<<triangolo<<endl;
+  cout<<trapezio<<endl;
 
   return 0;
 }
