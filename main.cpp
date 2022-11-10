@@ -8,15 +8,10 @@ int main(){
 
   cin >> a >> b >> c;
 
-  float quadrato=a*a;
-  float triangolo=(a*b)/2;
-  float rettangolo=a*b;
-  float trapezio=((a+b)*c)/2;
-
-  cout<<quadrato<<endl;
-  cout<<rettangolo<<endl;
-  cout<<triangolo<<endl;
-  cout<<trapezio<<endl;
+  cout<< quadrato=a*a <<endl;
+  cout<< triangolo=(a*b)/2 <<endl;
+  cout<< rettangolo=a*b <<endl;
+  cout<< trapezio=((a+b)*c)/2 <<endl;
 
   return 0;
 }
