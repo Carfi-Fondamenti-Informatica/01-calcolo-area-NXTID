@@ -2,7 +2,6 @@
 using namespace std;
 
 int main(){
-//Qui vanno definite le variabili
   float a=0;
   float b=0;
   float c=0;
@@ -13,7 +12,6 @@ int main(){
 
   cin >> a >> b >> c;
 
-//Qui va scritto il codice per eseguire i calcoli richiesti
   quadrato=a*a;
   triangolo=(a*b)/2;
   rettangolo=a*b;
