@@ -13,10 +13,10 @@ int main(){
   float rettangolo=a*b;
   float trapezio=((a+b)*c)/2;
 
+  cout << triangolo << endl;
   cout << quadrato << endl;
   cout << rettangolo << endl;
-  cout << triangolo << endl;
   cout << trapezio << endl;
-
+  
   return 0;
 }
